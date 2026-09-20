@@ -8306,7 +8306,7 @@ snapshots:
       commander: 14.0.3
       eventsource: 4.1.0
       feaxios: 0.0.23
-      smol-toml: 1.7.0
+      smol-toml: 1.8.0
       uint8array-extras: 1.5.0
     transitivePeerDependencies:
       - debug
